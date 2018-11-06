@@ -1,5 +1,11 @@
+'use strict';
+
 var $ = require('jquery');
 
 alert('Oi');
 
-$('#app').addClass('jQuery');
+$('ul li').text('jQuery');
+
+$('ul li').click(function() {
+    console.log('funfa')
+})

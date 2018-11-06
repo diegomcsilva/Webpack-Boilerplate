@@ -14,5 +14,7 @@
     "uglifyjs-webpack-plugin": "^2.0.1",
     "webpack": "^4.19.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
